@@ -1,0 +1,8 @@
+/server/node_modules
+/client/node_modules
+/logs
+/dist
+package-lock.json
+npm-debug.log
+yarn.lock
+*~
